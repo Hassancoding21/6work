@@ -1,0 +1,39 @@
+
+.one{
+    border: 2px solid;
+    background-color: blueviolet;
+}
+.two{
+    border: 2px solid;
+    background-color: blueviolet;
+}
+.three{
+    background-color: blueviolet;
+    border: 2px solid;
+}
+
+.o{
+
+    border: 2px solid;
+     height: 50px;
+     background-color: blue;
+}
+.n{
+    border: 2px solid;
+     height: 50px;
+     background-color: blue;
+}
+.e{
+
+    border: 2px solid
+    
+     
+}
+.four{
+    border: 2px solid; 
+    
+    background-color: aqua;
+} 
+body{
+    background-color: rgb(34, 4, 4);
+}
